@@ -4,19 +4,19 @@
     "url": "https://nitanmarcel.com",
     "icon": "https://favicons.githubusercontent.com/nitanmarcel.com",
     "slug": "nitanmarcel-com",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 147,
-    "timeDay": 158,
-    "timeWeek": 160,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 146,
+    "timeDay": 149,
+    "timeWeek": 156,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2021-05-18": 68
+      "2021-05-18": 114
     }
   }
 ]
