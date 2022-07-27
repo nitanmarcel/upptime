@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/nitanmarcel.com",
     "slug": "nitanmarcel-com",
     "status": "down",
-    "uptime": "45.15%",
+    "uptime": "45.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "41.07%",
-    "time": 302,
+    "time": 303,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2022-07-26": 53,
+      "2022-07-27": 53,
+      "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
@@ -231,8 +232,7 @@
       "2021-07-31": 1440,
       "2021-07-30": 1440,
       "2021-07-29": 1440,
-      "2021-07-28": 1440,
-      "2021-07-27": 1440
+      "2021-07-28": 1440
     }
   }
 ]
