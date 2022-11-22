@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitanmarcel.com.ico",
     "slug": "nitanmarcel-com",
     "status": "down",
-    "uptime": "35.89%",
+    "uptime": "35.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.18%",
+    "uptimeYear": "14.91%",
     "time": 336,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 308,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2022-11-21": 50,
+      "2022-11-22": 52,
+      "2022-11-21": 1440,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
       "2022-11-18": 1440,
@@ -326,8 +327,7 @@
       "2022-01-18": 1440,
       "2022-01-17": 1440,
       "2022-01-16": 1440,
-      "2022-01-15": 771,
-      "2021-11-22": 17
+      "2022-01-15": 771
     }
   }
 ]
